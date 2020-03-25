@@ -1,6 +1,6 @@
 # NeuroSkinning: Automatic Skin Binding for Production Characters with Deep Graph Networks
 
-Siggraph 2019
+Siggraph 2019,  [[pdf]](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20190624/201906242016238583.pdf) [[data]](http://fuxi.163.com/en/thesis/NeuroSkinning.html)
 
 by Lijuan Liu, Youyi Zheng, Di Tang, Yi Yuan, Changjie Fan, Kun Zhou
 
